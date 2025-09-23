@@ -1,0 +1,7 @@
+pandas
+numpy
+lightgbm
+pandas-ta
+matplotlib
+statsmodels
+scikit-learn
